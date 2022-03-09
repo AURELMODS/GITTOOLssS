@@ -13,7 +13,6 @@ Git Best Tools Hacking For Kali Linux 2022
 
 ### ScreenShot 
 
-![capture](![gittoolsc](![gittoolsc](https://user-images.githubusercontent.com/94483858/157420699-d499fa35-5544-4e57-8eea-e55df07c2473.png)
-))
+![capture](![gittoolsc](![gittoolsc](https://user-images.githubusercontent.com/94483858/157420699-d499fa35-5544-4e57-8eea-e55df07c2473.png)))
 
 ### Coded by ahgaurel1
