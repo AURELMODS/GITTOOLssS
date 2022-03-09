@@ -9,10 +9,11 @@ Git Best Tools Hacking For Kali Linux 2022
 
 ### chmod +x gittool.sh
 
-### ./gittool.sh
+### sudo bash gittool.sh
 
 ### ScreenShot 
 
-![capture](![gittoolsc](https://user-images.githubusercontent.com/94483858/157420169-d77582b0-7cd9-40f6-90ea-eee3928cd29f.png))
+![capture](![gittoolsc](![gittoolsc](https://user-images.githubusercontent.com/94483858/157420699-d499fa35-5544-4e57-8eea-e55df07c2473.png)
+))
 
 ### Coded by ahgaurel1
