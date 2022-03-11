@@ -3,7 +3,7 @@ Git Best Tools Hacking For Kali Linux 2022
 
 ### Download&install
 
-### gitclone https://github.com/ahgaurel1/GITTOOLssS
+### gitclone https://github.com/ahgaurel1/GITTOOLssS.git
 
 ### cd GitTool
 
